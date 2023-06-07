@@ -10,8 +10,8 @@ In this demo app I created a classic Connect4 Game application on Swift with Sto
 2. UIKit and Storyboard
 
 ## Might add in the future
-1. Set the game score
-2. Set the player names
+1. Customizable game score
+2. Customizable player names
 3. UserDefaults for unfinished game and names
 
 
