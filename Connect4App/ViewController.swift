@@ -83,7 +83,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
     
     func resultAlert(title: String) {
         let message = "\nRed:" + String(redScore) + "\n\nYellow:" + String(yellowScore)
-        let ac = UIAlertController(title: title, message: message, preferredStyle: .alert)
+        let ac = UIAlertController(title: title, message: message, preferredStyle: .actionSheet)
         ac.addAction(UIAlertAction(title: "Next Round", style: .cancel, handler: { _ in
             resetBoard()
             self.resetCells()
