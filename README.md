@@ -17,7 +17,7 @@ In this demo app I created a classic Connect4 Game application on Swift with Sto
 
 | Game Screen | Game Win Screen | Game Draw Screen |
 | ----------- | --------------- | ---------------- |
-| ![Game Screen](https://github.com/ekenozlu/DemoConnect4App/blob/main/game_screen.png "Game Screen") | ![Game Win Screen](https://github.com/ekenozlu/DemoConnect4App/blob/main/gamewin_screen.png "Game Win Screen") | ![Game Draw Screen](https://github.com/ekenozlu/DemoConnect4App/blob/main/gamedraw_screen.png "Timer Screen") |
+| ![Game Screen](https://github.com/ekenozlu/DemoConnect4App/blob/main/game_screen.png "Game Screen") | ![Game Win Screen](https://github.com/ekenozlu/DemoConnect4App/blob/main/win_screen.png "Game Win Screen") | ![Game Draw Screen](https://github.com/ekenozlu/DemoConnect4App/blob/main/draw_screen.png "Timer Screen") |
 
 
 
