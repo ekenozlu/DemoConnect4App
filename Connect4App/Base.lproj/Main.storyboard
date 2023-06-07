@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="WRK-e1-wjR">
-                                <rect key="frame" x="4" y="256.66666666666663" width="367" height="314.66666666666663"/>
+                                <rect key="frame" x="3.6666666666666572" y="256.66666666666669" width="367.66666666666674" height="315.00000000000006"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="WRK-e1-wjR" secondAttribute="height" multiplier="7:6" id="jh4-yL-DJY"/>
@@ -120,8 +120,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="WRK-e1-wjR" secondAttribute="trailing" constant="4" id="3fh-C9-2kK"/>
-                            <constraint firstItem="WRK-e1-wjR" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="62H-uc-AY6"/>
+                            <constraint firstItem="WRK-e1-wjR" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.98" id="62H-uc-AY6"/>
                             <constraint firstItem="oT7-Oo-Wcr" firstAttribute="width" secondItem="oT7-Oo-Wcr" secondAttribute="height" multiplier="1:1" id="7cD-1d-slZ"/>
                             <constraint firstItem="oT7-Oo-Wcr" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="32" id="983-3c-TvE"/>
                             <constraint firstItem="hXD-LU-URM" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="AMp-mD-idi"/>
@@ -142,7 +141,6 @@
                             <constraint firstItem="khU-NE-oLU" firstAttribute="top" secondItem="i2X-Zt-Io3" secondAttribute="bottom" constant="16" id="f6P-nh-rKJ"/>
                             <constraint firstItem="WRK-e1-wjR" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="hdK-S0-01g"/>
                             <constraint firstItem="WRK-e1-wjR" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="nsu-H5-LM7"/>
-                            <constraint firstItem="WRK-e1-wjR" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="4" id="s6g-sj-DIC"/>
                             <constraint firstItem="Syy-wF-Kiz" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="tTC-28-Bes"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="tsq-1X-4Pm" secondAttribute="trailing" constant="16" id="v28-Gh-z2U"/>
                             <constraint firstItem="Vck-bH-Csg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="xEl-Ef-KU5"/>
